@@ -19,7 +19,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/yourusername/LinuxRemoteController.git
+git clone https://github.com/Cursor-Team/LinuxRemoteController.git
 cd LinuxRemoteController
 ```
 
@@ -100,13 +100,15 @@ python app.py
 
 如有任何问题或建议，请通过以下方式联系：
 
-- Email: your.email@example.com
-- GitHub Issues: https://github.com/yourusername/LinuxRemoteController/issues
+- Email: team@cursor.so
+- GitHub Issues: https://github.com/Cursor-Team/LinuxRemoteController/issues
 
 ## 更新日志
 
-### v1.0.0
+### v1.0.0 (2024-01)
 
 - 初始版本发布
 - 基本的SSH连接和命令执行功能
 - 图形化界面实现
+- 支持跨平台运行（Windows/Linux/macOS）
+- 完整的错误处理和日志记录功能
