@@ -1,6 +1,18 @@
 # LinuxRemoteController
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/Cursor-Team/LinuxRemoteController/releases)
+[![Python](https://img.shields.io/badge/python-3.6%2B-blue)](https://www.python.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 一个基于Python的Linux远程控制客户端，使用SSH协议连接并控制远程Linux服务器。
+
+## 版本历史
+
+### v0.1.0 (2024-01)
+- 初始版本发布
+- 实现基本的SSH连接和命令执行功能
+- 提供图形化用户界面
+- 支持密码认证方式
 
 ## 功能特点
 
